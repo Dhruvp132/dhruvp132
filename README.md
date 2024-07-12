@@ -1,5 +1,3 @@
-<<!-- ## Hi there 👋 
---> 
 hi# Hello, I'm Dhruv Patel! 👋 ![](https://komarev.com/ghpvc/?username=Dhruvp132&color=blueviolet&abbreviated=true)
 
 Full-Stack Developer with a passion for Data structures and Algorithms, System Design and DevOps. Learning new things is whats keep me excited. Apart from that gym is constant, love exploring new places or either grooving on some new beats. 
@@ -18,7 +16,6 @@ Full-Stack Developer with a passion for Data structures and Algorithms, System D
 ## 📈 GitHub Stats
 
 ![Dhruvp132's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvp132&theme=material-palenight&hide_border=true)
-![Dhruvp132's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvp132&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🔗 Links
 
