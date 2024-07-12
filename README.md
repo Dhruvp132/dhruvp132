@@ -1,4 +1,5 @@
-<<!-- ## Hi there 👋 -->
+<<!-- ## Hi there 👋 
+--> 
 hi# Hello, I'm Dhruv Patel! 👋 ![](https://komarev.com/ghpvc/?username=Dhruvp132&color=blueviolet&abbreviated=true)
 
 Full-Stack Developer with a passion for Data structures and Algorithms, System Design and DevOps. Learning new things is whats keep me excited. Apart from that gym is constant, love exploring new places or either grooving on some new beats. 
@@ -12,7 +13,7 @@ Full-Stack Developer with a passion for Data structures and Algorithms, System D
 - Explore more about System Design and DevOps
 - Get hands on new programming languages or work with different tech stacks
 - Exploring new programming paradigms and languages
-- Solve more DSA
+- Do more problem solving and DSA
 
 ## 📈 GitHub Stats
 
@@ -25,18 +26,11 @@ Full-Stack Developer with a passion for Data structures and Algorithms, System D
 - **GitHub:** [Dhruvp132](https://github.com/Dhruvp132)
 - **Twitter:** [Dhruv](https://x.com/DhruvPa48307488)
   
-## 📫 Get in touch
+## ✉️ Get in touch
 
 - Email: dhruvpatel13210@gmail.com
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvp132&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvp132" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dhruvpa48307488" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvpa48307488?logo=twitter&style=for-the-badge" alt="dhruvpa48307488" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+## 📫 Connect with me 
 <p align="left">
 <a href="https://twitter.com/dhruvpa48307488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvpa48307488" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvpatel1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvpatel1310" height="30" width="40" /></a>
