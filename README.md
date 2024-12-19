@@ -21,7 +21,7 @@ Full-Stack Developer with a passion for Data structures and Algorithms, System D
 
 - **GitLab:** [Dhurvp132](https://gitlab.com/Dhruvp132)
 - **GitHub:** [Dhruvp132](https://github.com/Dhruvp132)
-- **Twitter:** [Dhruv](https://x.com/DhruvPa48307488)
+- **Twitter:** [Dhruv](https://x.com/13Dhruvp)
   
 ## ✉️ Get in touch
 
